@@ -1,1 +1,1 @@
-![Alt text](img/recipes.jpg)
+![Alt text](img/recipes.png)
