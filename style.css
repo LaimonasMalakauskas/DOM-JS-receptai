@@ -1,0 +1,13 @@
+body {
+  margin: 5em;
+  background-color: rgba(194, 205, 216, 0.247);
+}
+
+.row {
+  border-radius: 20px;
+  background-color: white;
+}
+
+.card {
+  margin-bottom: 20px;
+}
